@@ -8,6 +8,7 @@ Use deep reinforcement learning to develop a behavior control method for a singl
 </video>
 
 Based on symbolic intelligence, design and implement a behavior control method for a single soccer robot;
+
 <video controls>
   <source src="videos/符号智能（DDPG训练前的对战）.mp4" type="video/mp4">
   Your browser does not support the video tag.
