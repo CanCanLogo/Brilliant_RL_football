@@ -3,7 +3,7 @@
 
 
 
-**Use deep reinforcement learning to develop a behavior control method for a single soccer robot;**
+**1.Use deep reinforcement learning to develop a behavior control method for a single soccer robot;**
 
 DDPG-Based Soccer Robot Competition: Tactical Learning in Multi-Agent Duel​
 
@@ -20,7 +20,7 @@ https://private-user-images.githubusercontent.com/126153866/444355079-4fea8cc3-c
 
 
 
-**Based on symbolic intelligence, design and implement a behavior control method for a single soccer robot;**
+**2.Based on symbolic intelligence, design and implement a behavior control method for a single soccer robot;**
 
 Symbolic AI-Driven Soccer Robot Competition: Rule-Based Strategic Duel​
 
@@ -38,13 +38,13 @@ https://private-user-images.githubusercontent.com/126153866/444355535-e7318f8e-0
 
 
 
-**Through 1-on-1 matches, compare the performance of the two behavior control methods mentioned above. Select the better-performing one and further optimize it using evolutionary computation methods;** 
+**3.Through 1-on-1 matches, compare the performance of the two behavior control methods mentioned above. Select the better-performing one and further optimize it using evolutionary computation methods;** 
 
 
 
 
 
-**Based on the results obtained in Part 3, apply swarm intelligence techniques to realize a 3-on-3 soccer match.**
+**4.Based on the results obtained in Part 3, apply swarm intelligence techniques to realize a 3-on-3 soccer match.**
 
 
 
@@ -82,6 +82,7 @@ Collective Positioning Strategy for Soccer Robots Using PSO Algorithm
 
 # 附录
 how to play a video: <https://blog.csdn.net/weixin_45940369/article/details/130551018>
+
 how to play a youtube viedo: <https://typorachina.com/articles/1701118879542.html>
 
 
