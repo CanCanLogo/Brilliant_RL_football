@@ -6,7 +6,7 @@ Use deep reinforcement learning to develop a behavior control method for a singl
   <source src="videos/深度强化（DDPG训练后的对战）.mp4" type="video/mp4">
 </video>
 
-https://github.com/CanCanLogo/Brilliant_RL_football/blob/main/video/PSO%EF%BC%9A%E5%88%86%E6%95%A3%E7%AD%96%E7%95%A5.mp4
+[https://github.com/CanCanLogo/Brilliant_RL_football/blob/main/video/PSO%EF%BC%9A%E5%88%86%E6%95%A3%E7%AD%96%E7%95%A5.mp4](https://private-user-images.githubusercontent.com/126153866/444351780-f26a3b4d-e228-4b9e-afa8-a8a8dc54a411.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczNjIyNzksIm5iZiI6MTc0NzM2MTk3OSwicGF0aCI6Ii8xMjYxNTM4NjYvNDQ0MzUxNzgwLWYyNmEzYjRkLWUyMjgtNGI5ZS1hZmE4LWE4YThkYzU0YTQxMS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxNlQwMjE5MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ODdhMTBmMTNlZDMyOTg2OTUxNDQ1ZDlmNGYwMjRiNmI3NjQ2NTFmZmE3NjU4OGZmMjQ1OGUwMGZkZDhhM2NiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IgFPJY47eDq0olyojTyGVkJvEY7T1DPpHShJdHD3V1A)
 
 [![Collective Positioning Strategy for Soccer Robots Using PSO Algorithm](https://img.youtube.com/vi/fYIuhV4-exY/0.jpg)](https://www.youtube.com/watch?v=fYIuhV4-exY)
 
