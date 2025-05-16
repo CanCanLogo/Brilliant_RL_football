@@ -6,6 +6,7 @@ Use deep reinforcement learning to develop a behavior control method for a singl
   <source src="videos/深度强化（DDPG训练后的对战）.mp4" type="video/mp4">
 </video>
 
+https://github.com/CanCanLogo/Brilliant_RL_football/blob/main/video/PSO%EF%BC%9A%E5%88%86%E6%95%A3%E7%AD%96%E7%95%A5.mp4
 
 [![Collective Positioning Strategy for Soccer Robots Using PSO Algorithm](https://img.youtube.com/vi/fYIuhV4-exY/0.jpg)](https://www.youtube.com/watch?v=fYIuhV4-exY)
 
