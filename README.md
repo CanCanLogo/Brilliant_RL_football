@@ -1,11 +1,31 @@
-# 题目要求
+# **Project Requirements and Results**
 
-1）通过深度强化学习，获得单个足球机器人的行为控制方法； 
-2）基于符号智能，设计并实现单个足球机器人的行为控制方法； 
-3）通过1人制比赛，比较上述第一种和第二种行为控制方法的优劣，选择其中较好的，
-进而采用进化计算方法，对其进行优化。 
-4）在第三项所得结果基础上，利用群智能技术，实现3人制足球比赛。
+Use deep reinforcement learning to develop a behavior control method for a single soccer robot;
 
-# 效果展示
+   <video controls>
+  <source src="videos/深度强化（DDPG训练后的对战）.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Based on symbolic intelligence, design and implement a behavior control method for a single soccer robot;
+      <video controls>
+  <source src="videos/符号智能（DDPG训练前的对战）.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+Through 1-on-1 matches, compare the performance of the two behavior control methods mentioned above. Select the better-performing one and further optimize it using evolutionary computation methods;
+
+Based on the results obtained in Part 3, apply swarm intelligence techniques to realize a 3-on-3 soccer match.
+
+      <video controls>
+  <source src="videos/PSO：分散策略.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+      <video controls>
+  <source src="videos/PSO：集合策略.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
