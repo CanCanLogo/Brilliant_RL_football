@@ -1,3 +1,7 @@
+# Overview
+
+This is a course project. My paper is converted to markdown, here is my paper: <https://github.com/CanCanLogo/Brilliant_RL_football/blob/main/paper.md>
+
 # **Project Requirements and Results**
 
 
