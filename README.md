@@ -9,6 +9,8 @@ Use deep reinforcement learning to develop a behavior control method for a singl
 
 ![Collective Positioning Strategy for Soccer Robots Using PSO Algorithm](https://youtu.be/fYIuhV4-exY)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fYIuhV4-exY/0.jpg)](https://www.youtube.com/watch?v=fYIuhV4-exY)
+
 Based on symbolic intelligence, design and implement a behavior control method for a single soccer robot;
 
 <video controls>
